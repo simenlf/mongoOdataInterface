@@ -12,6 +12,7 @@
     "forever": "^0.15.3",
     "forever-monitor": "^1.7.1",
     "mongodb": "^2.2.33",
-    "simple-odata-server": "^0.3.2"
+    "simple-odata-server": "^0.3.2",
+    "node": "^6.9.1"
   }
 }
